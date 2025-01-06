@@ -12,3 +12,4 @@ MATLAB R2023b (or compatible version).
 Signal Processing Toolbox (if applicable).
 Usage:
 Launch the SignalProcessingToolkit.mlapp file to start the application.
+#SignalProcessingToolkit
